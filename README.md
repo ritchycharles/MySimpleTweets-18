@@ -19,6 +19,7 @@ The following libraries are used to make this possible:
  * [Room](https://developer.android.com/training/data-storage/room/index.html) - Simple ORM for persisting a local SQLite database on the Android device
 
 ## Usage
+<img src="https://github.com/ritchycharles/MySimpleTweets-18/blob/master/videotogif_2018.07.24_23.02.26.gif"/>
 
 ### 1. Configure the REST client
 
